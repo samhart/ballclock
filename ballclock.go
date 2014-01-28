@@ -145,7 +145,7 @@ func main() {
 	for scanner.Scan() {
 		j, e := strconv.Atoi(scanner.Text())
 		if e != nil {
-			panic(err)
+			panic(e)
 		}
 		if(j == 0){//end signal, close jobs channel
 			close(jobs)
