@@ -1,15 +1,15 @@
 CLOCK TEST
 =========
 
-##Tempus et mobilius
+###Tempus et mobilius
 
-##Time and motion
+###Time and motion
 
-##Tempus est mensura motus rerum mobilium.
+###Tempus est mensura motus rerum mobilium.
 
-##Time is the measure of movement.
+###Time is the measure of movement.
 
-##-- Auctoritates Aristotelis
+###-- Auctoritates Aristotelis
 
 ...and movement has long been used to measure time. For example, the ball clock is a simple device which 
 
@@ -61,7 +61,7 @@ twelfth ball carried over from the five-minute indicator causes the hour indicat
 
 free balls to the queue, in reverse order, before the twelfth ball itself also returns to the queue.
 
-##Input
+###Input
 
 The input defines a succession of ball clocks. Each clock operates as described above. The clocks differ only 
 
@@ -71,7 +71,7 @@ each clock, one per line and does not include the fixed ball on the hours indica
 
 range 27 to 127. A zero signifies the end of input.
 
-##Output
+###Output
 
 For each clock described in the input, your program should report the number of balls given in the input and 
 
