@@ -1,15 +1,15 @@
 CLOCK TEST
 =========
 
-###Tempus et mobilius
+####Tempus et mobilius
 
-###Time and motion
+####Time and motion
 
-###Tempus est mensura motus rerum mobilium.
+####Tempus est mensura motus rerum mobilium.
 
-###Time is the measure of movement.
+####Time is the measure of movement.
 
-###-- Auctoritates Aristotelis
+####-- Auctoritates Aristotelis
 
 ...and movement has long been used to measure time. For example, the ball clock is a simple device which 
 
@@ -37,7 +37,7 @@ begin to repeat. Your program must compute the time before repetition, which var
 
 number of balls present.
 
-##Operation of the Ball Clock
+###Operation of the Ball Clock
 
 Every minute, the least recently used ball is removed from the queue of balls at the bottom of the clock, 
 
